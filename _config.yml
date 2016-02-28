@@ -3,7 +3,7 @@ description:      A responsive Jekyll theme with modern tendencies from designer
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-url:              //daiweifan.github.io/hpstr-jekyll-theme
+url:              //mmistakes.github.io/hpstr-jekyll-theme
 
 # Owner/author information
 owner:
@@ -12,15 +12,15 @@ owner:
   bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        daiweifan
+  twitter:        mmistakes
   facebook:       
-  github:         daiweifan
+  github:         mmistakes
   stackexchange:  
   linkedin:       
   instagram:        
   flickr:         
   tumblr:         
-  # google plus id, include the '+', eg +daiweifan
+  # google plus id, include the '+', eg +mmistakes
   google_plus:    +MichaelRoseDesign
 
 # Background image to be tiled on all pages
